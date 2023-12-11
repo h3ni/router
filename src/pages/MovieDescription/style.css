@@ -1,0 +1,17 @@
+.movie img {
+  width: 450px;
+  height: 450px;
+
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.movie h1 {
+  text-align: center;
+}
+.movie p {
+  text-align: center;
+}
+.movie {
+  margin-bottom: 20px;
+}
